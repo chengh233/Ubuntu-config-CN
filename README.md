@@ -60,3 +60,9 @@ Refresh network
 ```
 sudo service network-manager restart
 ```
+
+## Issue #4: Cannot get proxy.golang.org
+
+```
+go env -w GOPROXY=https://goproxy.cn
+```
