@@ -2,7 +2,9 @@
 how to set development environment in mainland China
 
 *System: Ubuntu 20.04 LTS*
+
 *wsl: Windows Subsystem for Linux*
+
 *Terminal: Windows terminal*
 
 ## Issue #1: Cannot ping www.baidu.com
